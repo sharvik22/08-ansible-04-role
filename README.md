@@ -43,6 +43,9 @@
 
 * настроил публичную часть своего ключа к своему профилю на GitHub.
 * создал три пустых публичных репозитория:
+   - vector-role
+   - lighthouse-role
+   - clickhouse-role
 
 ### ClickHouse 
 
