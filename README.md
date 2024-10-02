@@ -99,7 +99,6 @@ README.md - описание
 * в директории с плейбуком создать файл requirements.yml
 
 ![image](https://github.com/user-attachments/assets/0df1f787-6e2d-4857-a35c-7364653511fd)
-
 * скачал роль с Github
    
 ansible-galaxy install -r requirements.yml -p roles
