@@ -104,6 +104,8 @@ README.md - описание
    
 ansible-galaxy install -r requirements.yml -p roles
 
+![image](https://github.com/user-attachments/assets/1a154e07-7928-4ceb-8169-27157a583c3c)
+
 ![image](https://github.com/user-attachments/assets/13159449-4640-4e6a-8e34-0d9ad6ca56bd)
 
 * изменил плейбук
