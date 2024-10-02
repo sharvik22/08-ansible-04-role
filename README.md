@@ -94,22 +94,23 @@ README.md - описание
 
 *Выполнил следующие команды для загрузки роли:* 
 
-
 * перейти в директорию плейбука
 * скопировать ссылку ssh с Github
 * в директории с плейбуком создать файл requirements.yml
 
----
-  - name: clickhouse-role
-    src: git@github.com:sharvik22/clickhouse-role.git
-    scm: git
-    version: "v1.0.0"  
+![image](https://github.com/user-attachments/assets/0df1f787-6e2d-4857-a35c-7364653511fd)
 
 * скачал роль с Github
    
 ansible-galaxy install -r requirements.yml -p roles
 
 ![image](https://github.com/user-attachments/assets/13159449-4640-4e6a-8e34-0d9ad6ca56bd)
+
+* изменил плейбук
+
+![image](https://github.com/user-attachments/assets/3d4dcbef-2803-4b6c-ba88-1ace959f391f)
+
+
 
 
 
