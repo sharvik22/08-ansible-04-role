@@ -103,7 +103,7 @@ README.md - описание
 ansible-galaxy install -r requirements.yml -p roles
 
 ## https://github.com/sharvik22/vector-role.git ##
-
-
+## https://github.com/sharvik22/lighthouse-role.git ##
+## https://github.com/sharvik22/clickhouse-role.git ##
 
 
