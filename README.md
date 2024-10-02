@@ -55,7 +55,7 @@
 
    - ansible-galaxy role init clickhouse
    
-*стркутура роли:*
+# стркутура роли:
     
 defaults - переменные для роли
 
