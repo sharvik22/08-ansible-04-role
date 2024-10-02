@@ -73,6 +73,20 @@ README.md - описание
 
 **Перенес в соответствующие папки блоки с основного плейбука, заполнил необходимые файлы информацией.**
 
+*Выполнил следующие команды:* 
+
+* Перейдите в директорию вашей роли
+* git init
+git add .
+git commit -m "clickhouse-role"
+(ssh)
+git remote set-url origin git@github.com:sharvik22/clickhouse-role.git
+git push -u origin main
+
+Проставьте теги с использованием семантической нумерации
+git tag -a v1.0.0 -m "Release v1.0.0"
+git push origin v1.0.0
+
 
 
 
