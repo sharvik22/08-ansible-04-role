@@ -51,9 +51,12 @@
 
 ## ClickHouse 
 
-   - ansible-galaxy role init clickhouse
+*создал роль*
 
-## Создается роль, со следующей стркутурой:
+   - ansible-galaxy role init clickhouse
+   - 
+
+## стркутура роли:
     
 defaults - переменные для роли
 
