@@ -41,7 +41,7 @@
 
 # Решение
 
-*данные дейстия анолочны для каждой роли*
+*данные действия аналогичные для каждой роли*
 
 * настроил публичную часть своего ключа к своему профилю на GitHub.
 * создал три пустых публичных репозитория:
@@ -55,7 +55,7 @@
 
    - ansible-galaxy role init clickhouse
    
-## стркутура роли:
+## структура роли:
     
 defaults - переменные для роли
 
@@ -110,7 +110,6 @@ ansible-galaxy install -r requirements.yml -p roles
 * изменил плейбук
 
 ![image](https://github.com/user-attachments/assets/3d4dcbef-2803-4b6c-ba88-1ace959f391f)
-
 
 
 
