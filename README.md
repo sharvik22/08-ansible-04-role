@@ -90,8 +90,6 @@ README.md - описание
 
 ![image](https://github.com/user-attachments/assets/0e5215c8-bc99-4664-8aef-5c508d2c30c8)
 
-### https://github.com/sharvik22/clickhouse-role.git
-
 *Выполнил следующие команды для загрузки роли:* 
 
 * перейти в директорию плейбука
