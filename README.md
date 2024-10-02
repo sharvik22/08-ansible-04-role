@@ -98,18 +98,11 @@ README.md - описание
 * скопировать ссылку ssh с Github
 * в директории с плейбуком создать файл requirements.yml
 
-![image](https://github.com/user-attachments/assets/0df1f787-6e2d-4857-a35c-7364653511fd)
+![image](https://github.com/user-attachments/assets/a3c13399-6b5c-443b-aba7-d87630ce4feb)
+
 * скачал роль с Github
    
 ansible-galaxy install -r requirements.yml -p roles
-
-![image](https://github.com/user-attachments/assets/1a154e07-7928-4ceb-8169-27157a583c3c)
-
-![image](https://github.com/user-attachments/assets/13159449-4640-4e6a-8e34-0d9ad6ca56bd)
-
-* изменил плейбук
-
-![image](https://github.com/user-attachments/assets/3d4dcbef-2803-4b6c-ba88-1ace959f391f)
 
 
 
