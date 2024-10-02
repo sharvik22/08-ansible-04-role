@@ -109,15 +109,7 @@ README.md - описание
    
 ansible-galaxy install -r requirements.yml -p roles
 
-
-
-
-### Как оформить решение задания
-
-Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
-
----
-
+![image](https://github.com/user-attachments/assets/13159449-4640-4e6a-8e34-0d9ad6ca56bd)
 
 
 
