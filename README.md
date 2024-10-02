@@ -84,10 +84,9 @@ README.md - описание
 * git tag -a v1.0.0 -m "Release v1.0.0"
 * git push origin v1.0.0
 
+![image](https://github.com/user-attachments/assets/0e5215c8-bc99-4664-8aef-5c508d2c30c8)
 
-
-
-
+### https://github.com/sharvik22/clickhouse-role.git
 
 ### Как оформить решение задания
 
