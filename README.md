@@ -105,4 +105,16 @@ README.md - описание
 
 ### Проверка ###
 
+![image](https://github.com/user-attachments/assets/83f1cd91-ff36-4b8c-a95e-ab9f4308d797)
+
+![image](https://github.com/user-attachments/assets/a0a9c6b3-2021-484e-ba09-1729d7ca9ea8)
+
+![image](https://github.com/user-attachments/assets/10a8bd0e-4ad0-451d-9432-a3392cb1e6cd)
+
+![image](https://github.com/user-attachments/assets/95623dd3-ec65-4f57-a428-cf45f72bb435)
+
+![image](https://github.com/user-attachments/assets/fb62b614-0351-4df1-8476-c6aca8862e05)
+
+
+
 
