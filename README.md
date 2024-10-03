@@ -98,12 +98,33 @@ README.md - описание
 
 ![image](https://github.com/user-attachments/assets/a3c13399-6b5c-443b-aba7-d87630ce4feb)
 
-* скачал роли с Github
    
-ansible-galaxy install -r requirements.yml -p roles
-
 ## https://github.com/sharvik22/vector-role.git ##
 ## https://github.com/sharvik22/lighthouse-role.git ##
 ## https://github.com/sharvik22/clickhouse-role.git ##
+
+### Проверка ###
+
+* скачал роли с Github
+
+ansible-galaxy install -r requirements.yml -p roles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
