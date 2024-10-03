@@ -93,7 +93,7 @@ README.md - описание
 *Выполнил следующие команды для загрузки роли:* 
 
 * перейти в директорию плейбука
-* скопировать ссылку ssh с Github
+* скопировать ссылки ssh с Github
 * в директории с плейбуком создать файл requirements.yml
 
 ![image](https://github.com/user-attachments/assets/a3c13399-6b5c-443b-aba7-d87630ce4feb)
