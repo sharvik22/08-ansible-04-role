@@ -53,7 +53,7 @@
 
 *создал роль*
 
-   - ansible-galaxy role init clickhouse
+   - ansible-galaxy role init clickhouse-role
    
 ## структура роли:
     
