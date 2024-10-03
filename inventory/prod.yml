@@ -2,18 +2,18 @@
 clickhouse:
   hosts:
     clickhouse-1:
-      ansible_host: 84.201.167.95
+      ansible_host: 89.169.168.231
   vars:
     ansible_user: admon
 lighthouse:
   hosts:
     lighthouse-1:
-      ansible_host: 51.250.18.252
+      ansible_host: 89.169.160.5
   vars:
     ansible_user: admon
 vector:
   hosts:
     vector-1:
-      ansible_host: 89.169.174.146
+      ansible_host: 84.252.137.199
   vars:
     ansible_user: admon
