@@ -105,26 +105,4 @@ README.md - описание
 
 ### Проверка ###
 
-* скачал роли с Github
-
-ansible-galaxy install -r requirements.yml -p roles
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
